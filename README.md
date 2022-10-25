@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Paiva</h1>
-<h3 align="center">I'm a Information Systems Student at EACH - USP</h3>
+<h3 align="center">I'm an Information Systems Student at EACH - USP</h3>
 
 - 🌱 I’m currently learning **AI, Data Science and ML with Python**
 
